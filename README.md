@@ -2,7 +2,7 @@
 
 **Project B** is a prototype game inspired by the dark and gritty world of the *Berserk* manga, created using the Unity engine. This project features intense sword combat and atmospheric environments, capturing the essence of *Berserk* in a gameplay experience. It is a proof of concept showcasing basic combat mechanics and environmental storytelling.
 
-![Project B Screenshot](showcase.mp4)
+![Project B Screenshot](showcase.gif)
 
 ## Features
 - **Berserk-Inspired World**: Dark fantasy setting with combat mechanics similar to *Berserk*.
